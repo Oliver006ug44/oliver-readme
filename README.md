@@ -10,9 +10,9 @@
 <div align="center">
   <h2>👋 Welcome to my digital space!</h2>
   <p>
-    Hi, I'm Oliver, a software developer based in Haiti, passionate about crafting innovative solutions and bringing ideas to life with code.
+    Hi, I'm Oliver, a software developer and a musician from Haiti, passionate about creating cool projects with my computer.
     I love to dive deep into technology, constantly learning and experimenting to make cool stuff with my keyboard.
-    Currently, I'm contributing to <a href="#">CD8-company</a>, building robust and scalable applications.
+    Currently, I'm learning how to get better at coding, Ai (Computer vision, ML, NeuralNetworks), C++, C#, Python and Software developpement.
   </p>
 
   ## 💡 Quick Stats
@@ -25,11 +25,10 @@
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **[Current Project]** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **[Technology/Skill]** <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: **Open Source Projects**
-- 💬 Ask me about: **Full-Stack Development, Web Technologies, [Your Expertise Areas]** <!-- TODO: Add your specific areas of expertise -->
-- ⚡ Fun fact: **[Interesting fact about you]** <!-- TODO: Add a fun fact -->
+- 🔭 Working on: **Mango-Script** <!-- TODO: Add your current main project -->
+- 🌱 Learning: **C++ and Ai** <!-- TODO: Add what you're currently learning -->
+- 💬 Ask me about: **Full-Stack Development, Web Technologies, Music, Beatmaking** <!-- TODO: Add your specific areas of expertise -->
+- ⚡ Fun fact: **I'm alergic to too cats despite being a cat person.** <!-- TODO: Add a fun fact -->
 
 ---
 

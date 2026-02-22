@@ -164,49 +164,6 @@
 
 ---
 
-## 🎓 Certifications & Achievements
-<!-- TODO: Add your certifications, courses, achievements -->
-- 📜 [Certification Name] - Issuing Body (Year)
-- 🏆 [Award/Achievement] - Organization (Year)
-
-## 📝 Latest Blog Posts
-<!-- TODO: Add your recent blog posts if you have a blog -->
-- 📖 [Blog Post Title 1](blog-link-1)
-- 🔧 [Blog Post Title 2](blog-link-2)
-
-## 🎯 2024 Goals
-<!-- TODO: Update with your current year's professional and personal development goals -->
-- 🚀 Contribute to X+ open source projects
-- 📚 Master [Technology/Skill]
-- 📝 Write X+ technical blog posts
-
-## 🏆 Open Source Contributions
-<!-- TODO: Highlight your major contributions to open source projects -->
-- 🔧 **[Project Name]**: Contributed feature X, fixed critical bug Y
-- 🌟 **[Library Name]**: Improved documentation, added example Z
-
----
-
-## ☕ Support My Work
-
-If you found my projects helpful or learned something from my code, consider supporting my work:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Oliver006ug44) <!-- Replace YOUR_USERNAME with your GitHub username -->
-
-</div>
-
-<div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-</div>
-
----
-
 <div align="center">
   <h3>🚀 "Code is poetry, and every commit tells a story"</h3>
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
